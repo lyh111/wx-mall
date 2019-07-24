@@ -1,5 +1,5 @@
 var NewApiRootUrl = 'http://192.168.0.104:8080/platform-framework/api/';
-var test = 'bbb';
+var test = 'aaa';
 
 module.exports = {
     IndexUrl: NewApiRootUrl + 'index/index', //首页数据接口
